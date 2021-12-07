@@ -1,0 +1,52 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=4518&resolucion=3840x2400);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+
+.NameCharacter{
+    text-align: center;
+}
+
+.ContainerCards{
+    color: #1C1C1C; 
+    width: 23rem;
+    height: 28rem; 
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5rem;
+    background: #9B9B9B;
+    box-shadow: 0 0 20px #f4f4f4;
+}
+
+.ImageCharacter{
+    display:block;
+    margin:12px;
+    width: 80%;
+    height: 50%;
+    box-shadow: 0 0 20px;
+    margin-top: 2rem;
+}
+
+.ContentProgram{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.Filtro{
+    background-color: #61dafb;
+    color: #000;
+}
+
+.filtrar{
+    color: #0000
+    ;
+}
